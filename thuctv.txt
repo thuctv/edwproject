@@ -12,3 +12,6 @@ MAP bitnami_pm.app_cache_view, TARGET MCETL.ODS_BPM_CORE_app_cache_view2, COLMAP
 
 
 END RUNTIME
+
+
+chả hiểu sao
