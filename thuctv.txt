@@ -1,8 +1,4 @@
-tran van thuc
-
-REPLICAT RE_CLS
-
-
+﻿
 USERID MCETL@MBFPDB01, PASSWORD MCETL123
 -- DBOPTIONS INTEGRATEDPARAMS(parallelism 2)
 SOURCEDEFS ./dirdef/bpm.def
@@ -12,6 +8,5 @@ MAP bitnami_pm.app_cache_view, TARGET MCETL.ODS_BPM_CORE_app_cache_view2, COLMAP
 
 
 END RUNTIME
-
 
 chả hiểu sao
